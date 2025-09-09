@@ -59,7 +59,7 @@ This is the simplest way to run the application.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Aman18118/Quiz-Recommendation-System.git
+   git clone https://github.com/Aman18118/Quiz-Recommend-System.git
    cd Quiz-Recommendation-System
    ```
 
@@ -90,7 +90,7 @@ Use this method if you want to modify the code or contribute to development.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Aman18118/Quiz-Recommendation-System.git
+   git clone https://github.com/Aman18118/Quiz-Recommend-System.git
    cd Quiz-Recommendation-System
    ```
 
